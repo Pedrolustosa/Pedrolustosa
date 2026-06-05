@@ -2,21 +2,21 @@
 
 # 👋 Hi, I'm Pedro Lustosa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Especialista+em+.NET+e+Angular/React;Cloud+%26+Arquitetura+Escal%C3%A1vel;Clean+Code+%7C+Performance+%7C+Scalability" alt="Typing Animation" />
-
 ### 🚀 Full Stack Developer | .NET | Angular | React | Cloud Solutions
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pedroeternalss@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/users/pedrolustosaengineer">
-    <img src="https://img.shields.io/badge/Credly-Certifications-1E40AF?style=for-the-badge&logo=credly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Pedrolustosa&style=for-the-badge&color=0A66C2"/>
 
 </div>
 
@@ -46,8 +46,8 @@ var developer = new FullStackDeveloper
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -57,40 +57,40 @@ var developer = new FullStackDeveloper
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-1E3A8A?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-1E40AF?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=FDE047" />
-  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-1D4ED8?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1E40AF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-1E3A8A?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-1E40AF?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-1D4ED8?style=for-the-badge&logo=react&logoColor=BFDBFE" />
-  <img src="https://img.shields.io/badge/Bootstrap-2563EB?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Messaging
 <p align="center">
-  <img src="https://img.shields.io/badge/SQLite-1E3A8A?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-1E40AF?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-1D4ED8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Oracle-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-1D4ED8?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-1E40AF?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-1D4ED8?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-1E40AF?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 
 ---
@@ -138,24 +138,3 @@ var developer = new FullStackDeveloper
   </p>
 </details>
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144">
-  <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:pedroeternalss@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.buymeacoffee.com/pedrolustosa">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-1E40AF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Pedrolustosa&style=for-the-badge&color=1E3A8A"/>
-
-</div>
