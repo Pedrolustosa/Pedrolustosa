@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pedroeternalss@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/users/pedrolustosaengineer">
-    <img src="https://img.shields.io/badge/Credly-Certifications-0073B1?style=for-the-badge&logo=credly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Credly-Certifications-1E40AF?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
 
@@ -29,8 +29,8 @@ var developer = new FullStackDeveloper
 {
     Name = "Pedro Lustosa",
     Focus = ["Performance", "Scalability", "Clean Code"],
-    Stack = ["C#", ".NET", "Python", "Angular", "React", "Typescript", "Javascript"],
-    Cloud = ["Azure", "Amazon"],
+    Stack = ["C#", ".NET", "Python", "Angular", "React", "TypeScript", "JavaScript"],
+    Cloud = ["Azure", "AWS"],
     Practices = ["DDD", "Clean Architecture", "CQRS", "Design Patterns"],
     Methodologies = ["Agile", "Scrum", "Kanban"]
 };
@@ -57,25 +57,40 @@ var developer = new FullStackDeveloper
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,python,html,css" />
+  <img src="https://img.shields.io/badge/C%23-1E3A8A?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-1E40AF?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=FDE047" />
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-1D4ED8?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1E40AF?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,react,bootstrap" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-1E3A8A?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-1E40AF?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1D4ED8?style=for-the-badge&logo=react&logoColor=BFDBFE" />
+  <img src="https://img.shields.io/badge/Bootstrap-2563EB?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Messaging
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,redis" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite-1E3A8A?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-1E40AF?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-1D4ED8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Oracle-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-1E3A8A?style=for-the-badge"/>
 </p>
 
 ### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/Azure-1D4ED8?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1E40AF?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-1D4ED8?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-1E40AF?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 
 ---
@@ -121,7 +136,6 @@ var developer = new FullStackDeveloper
     <img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png" width="90px" alt="Remote Work Certificate">
     <img src="images/lifelong-learning.png" width="90px" alt="Lifelong Learning Certificate">
   </p>
-  </p>
 </details>
 
 ---
@@ -131,17 +145,17 @@ var developer = new FullStackDeveloper
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144">
-  <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:pedroeternalss@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.buymeacoffee.com/pedrolustosa">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-e17055?style=for-the-badge&logo=buy-me-a-coffee"/>
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-1E40AF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Pedrolustosa&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Pedrolustosa&style=for-the-badge&color=1E3A8A"/>
 
 </div>
