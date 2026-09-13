@@ -3,7 +3,7 @@
 <h1>👋 Hi, I'm Pedro Lustosa</h1>
 
 <p>
-  <strong>Full Stack Developer</strong> | .NET | Angular | React | Cloud Solutions
+  | <strong>Full Stack Developer</strong> | .NET | C# | Angular | React | Cloud Solutions |
 </p>
 
 <p>
@@ -92,15 +92,6 @@ var developer = new FullStackDeveloper
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -151,37 +142,3 @@ var developer = new FullStackDeveloper
 - 🔧 Technical Degree in Computer Maintenance
 
 > 💭 *"The more I learn, the more I realize how much I don't know."* — Albert Einstein
-
----
-
-## 🏆 Certifications
-
-<details>
-  <summary><b>📘 Microsoft Certifications</b></summary>
-  <br />
-  <p align="center">
-    <img src="images/microsoft-certified-azure-fundamentals-2022.png" width="90px" alt="Azure Fundamentals" />
-    <img src="images/azure-data-fundamentals.png" width="90px" alt="Azure Data Fundamentals" />
-    <img src="images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="90px" alt="Security, Compliance and Identity Fundamentals" />
-    <img src="images/mta-software-development-fundamentals-certified-2022.png" width="90px" alt="Software Development Fundamentals" />
-    <img src="images/mta-database-fundamentals-certified-2022.png" width="90px" alt="Database Fundamentals" />
-    <img src="images/mta-html5-application-development-fundamentals-certified-2022.png" width="90px" alt="HTML5 App Dev Fundamentals" />
-    <img src="images/mta-introduction-to-programming-using-javascript-certified-2022.png" width="90px" alt="Programming with JavaScript" />
-    <img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png" width="90px" alt="HTML & CSS Fundamentals" />
-    <img src="images/mta-mobility-and-device-fundamentals-certified-2022.png" width="90px" alt="Mobility and Device Fundamentals" />
-    <img src="images/mta-security-fundamentals-certified-2022.png" width="90px" alt="Security Fundamentals" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📗 CertiProf Certifications</b></summary>
-  <br />
-  <p align="center">
-    <img src="images/Scrum Foundation Professional Certification(SFPC).png" width="90px" alt="Scrum Foundation Certificate" />
-    <img src="https://img.shields.io/badge/Kanban-Essentials-00A4EF?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban Essentials Certificate" />
-    <img src="images/design-sprint-professional-certification-dspc.png" width="90px" alt="Design Sprint Professional Certification" />
-    <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png" width="90px" alt="LGPD Certificate" />
-    <img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png" width="90px" alt="Remote Work Certificate" />
-    <img src="images/lifelong-learning.png" width="90px" alt="Lifelong Learning Certificate" />
-  </p>
-</details>
