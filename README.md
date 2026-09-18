@@ -42,14 +42,14 @@ var developer = new FullStackDeveloper
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 - **[IdentityHub](https://github.com/Pedrolustosa/IdentityHub)** — User management platform with an administrative panel for creating, editing, and assigning roles to users in a secure and controlled way. `C#` `JWT` `Entity Framework Core` `SQLite` `TailwindCSS`
 - **[pedro-portfolio](https://github.com/Pedrolustosa/pedro-portfolio)** — Personal portfolio single-page Angular application showcasing professional profile, experience, projects, education, and contact information. `Angular 20` `TypeScript` `RxJS` `TailwindCSS v4`
 
 ---
 
-## �📊 GitHub Insights
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -160,4 +160,3 @@ var developer = new FullStackDeveloper
 ⭐ *Thanks for visiting my profile — let's build something great together!*
 
 </div>
-
