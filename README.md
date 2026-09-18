@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer | .NET | Angular | React | Cloud Solutions
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144">
+  <a href="https://www.linkedin.com/in/pedrolustosadev/">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pedroeternalss@gmail.com">
@@ -42,12 +42,21 @@ var developer = new FullStackDeveloper
 
 ---
 
-## 📊 GitHub Insights
+## � Featured Projects
+
+- **[IdentityHub](https://github.com/Pedrolustosa/IdentityHub)** — User management platform with an administrative panel for creating, editing, and assigning roles to users in a secure and controlled way. `C#` `JWT` `Entity Framework Core` `SQLite` `TailwindCSS`
+- **[pedro-portfolio](https://github.com/Pedrolustosa/pedro-portfolio)** — Personal portfolio single-page Angular application showcasing professional profile, experience, projects, education, and contact information. `Angular 20` `TypeScript` `RxJS` `TailwindCSS v4`
+
+---
+
+## �📊 GitHub Insights
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com/?user=Pedrolustosa&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -98,7 +107,7 @@ var developer = new FullStackDeveloper
 ## 🎓 Education
 
 - 🎓 Bachelor in Information Systems  
-- 🤖 Postgraduate in Artificial Intelligence *(In Progress)*  
+- 🤖 Postgraduate in Artificial Intelligence  
 - 📊 Postgraduate in Data Science & Analytics  
 - 🔧 Technical Degree in Computer Maintenance  
 
@@ -111,30 +120,44 @@ var developer = new FullStackDeveloper
 <details>
   <summary><b>📘 Microsoft Certifications</b></summary>
   <br>
-  <p align="center">
-    <img src="images/microsoft-certified-azure-fundamentals-2022.png" width="90px" alt="Azure Fundamentals">
-    <img src="images/azure-data-fundamentals.png" width="90px" alt="Azure Data Fundamentals">
-    <img src="images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="90px" alt="Security, Compliance and Identity Fundamentals">
-    <img src="images/mta-software-development-fundamentals-certified-2022.png" width="90px" alt="Software Development Fundamentals">
-    <img src="images/mta-database-fundamentals-certified-2022.png" width="90px" alt="Database Fundamentals">
-    <img src="images/mta-html5-application-development-fundamentals-certified-2022.png" width="90px" alt="HTML5 App Dev Fundamentals">
-    <img src="images/mta-introduction-to-programming-using-javascript-certified-2022.png" width="90px" alt="Programming with JavaScript">
-    <img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png" width="90px" alt="HTML & CSS Fundamentals">
-    <img src="images/mta-mobility-and-device-fundamentals-certified-2022.png" width="90px" alt="Mobility and Device Fundamentals">
-    <img src="images/mta-security-fundamentals-certified-2022.png" width="90px" alt="Security Fundamentals">   
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" width="120"><img src="images/microsoft-certified-azure-fundamentals-2022.png" width="90px" alt="Azure Fundamentals"><br><sub>Azure Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/azure-data-fundamentals.png" width="90px" alt="Azure Data Fundamentals"><br><sub>Azure Data Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="90px" alt="Security, Compliance and Identity Fundamentals"><br><sub>Security, Compliance & Identity Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-software-development-fundamentals-certified-2022.png" width="90px" alt="Software Development Fundamentals"><br><sub>Software Development Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-database-fundamentals-certified-2022.png" width="90px" alt="Database Fundamentals"><br><sub>Database Fundamentals</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><img src="images/mta-html5-application-development-fundamentals-certified-2022.png" width="90px" alt="HTML5 App Dev Fundamentals"><br><sub>HTML5 App Dev Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-introduction-to-programming-using-javascript-certified-2022.png" width="90px" alt="Programming with JavaScript"><br><sub>Programming with JavaScript</sub></td>
+      <td align="center" width="120"><img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png" width="90px" alt="HTML & CSS Fundamentals"><br><sub>HTML & CSS Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-mobility-and-device-fundamentals-certified-2022.png" width="90px" alt="Mobility and Device Fundamentals"><br><sub>Mobility and Device Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-security-fundamentals-certified-2022.png" width="90px" alt="Security Fundamentals"><br><sub>Security Fundamentals</sub></td>
+    </tr>
+  </table>
 </details>
 
 <details>
   <summary><b>📗 CertiProf Certifications</b></summary>
   <br>
-  <p align="center">
-    <img src="images/Scrum Foundation Professional Certification(SFPC).png" width="90px" alt="Scrum Foundation Certificate">
-    <img src="images/kanban-essentials-professional-certificate-kepc.png" width="90px" alt="Kanban Essentials Certificate">
-    <img src="images/design-sprint-professional-certification-dspc.png" width="90px" alt="Design Sprint Professional Certification">
-    <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png" width="90px" alt="LGPD Certificate">
-    <img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png" width="90px" alt="Remote Work Certificate">
-    <img src="images/lifelong-learning.png" width="90px" alt="Lifelong Learning Certificate">
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" width="120"><img src="images/scrum-foundation-professional-certification-sfpc.png" width="90px" alt="Scrum Foundation Certificate"><br><sub>Scrum Foundation (SFPC)</sub></td>
+      <td align="center" width="120"><img src="images/kanban-essentials-professional-certificate-kepc.png" width="90px" alt="Kanban Essentials Certificate"><br><sub>Kanban Essentials (KEPC)</sub></td>
+      <td align="center" width="120"><img src="images/design-sprint-professional-certification-dspc.png" width="90px" alt="Design Sprint Professional Certification"><br><sub>Design Sprint (DSPC)</sub></td>
+      <td align="center" width="120"><img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png" width="90px" alt="LGPD Certificate"><br><sub>LGPD Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png" width="90px" alt="Remote Work Certificate"><br><sub>Remote Work & Virtual Collaboration</sub></td>
+      <td align="center" width="120"><img src="images/lifelong-learning.png" width="90px" alt="Lifelong Learning Certificate"><br><sub>Lifelong Learning</sub></td>
+    </tr>
+  </table>
 </details>
+
+---
+
+<div align="center">
+
+⭐ *Thanks for visiting my profile — let's build something great together!*
+
+</div>
 
