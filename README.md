@@ -1,59 +1,28 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Pedro Lustosa</h1>
+# 👋 Hi, I'm Pedro Lustosa
 
-<p>
-  | <strong>Full Stack Developer</strong> | .NET | C# | Angular | React | Cloud Solutions |
-</p>
+### 🚀 Full Stack Developer | .NET | Angular | React | Cloud Solutions
 
-<p>
-  <a href="https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrolustosadev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lustosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pedroeternalss@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/users/pedrolustosaengineer">
-    <img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+    <img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
 
-<p>
-  Building scalable, resilient systems with a strong focus on clean architecture, performance, and team collaboration.
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Pedrolustosa&style=for-the-badge&color=0A66C2" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Pedrolustosa&style=for-the-badge&color=0A66C2"/>
 
 </div>
 
 ---
 
 ## 🧠 About Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" width="380px">
-        <strong>Who I am</strong>
-        <ul>
-          <li>Full Stack Developer with experience in enterprise .NET and modern frontend frameworks.</li>
-          <li>Specialized in cloud-native solutions, high-performance APIs and responsive user interfaces.</li>
-          <li>Driven by clean code, architecture patterns and continuous improvement.</li>
-        </ul>
-      </td>
-      <td align="left" width="380px">
-        <strong>What I bring</strong>
-        <ul>
-          <li>Backend architecture, API design and distributed systems.</li>
-          <li>Angular / React interfaces with TypeScript and modern UX patterns.</li>
-          <li>Azure, AWS, Docker, CI/CD and DevOps collaboration.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ```csharp
 var developer = new FullStackDeveloper
@@ -67,27 +36,28 @@ var developer = new FullStackDeveloper
 };
 ```
 
+💡 Passionate about building scalable, high-performance applications that solve real-world problems.  
+⚙️ Strong experience with backend architecture and modern frontend frameworks.  
+🤝 Collaborative mindset with focus on clean, maintainable code.
+
 ---
 
-## 🚀 Career Snapshot
+## 🚀 Featured Projects
+
+- **[IdentityHub](https://github.com/Pedrolustosa/IdentityHub)** — User management platform with an administrative panel for creating, editing, and assigning roles to users in a secure and controlled way. `C#` `JWT` `Entity Framework Core` `SQLite` `TailwindCSS`
+- **[pedro-portfolio](https://github.com/Pedrolustosa/pedro-portfolio)** — Personal portfolio single-page Angular application showcasing professional profile, experience, projects, education, and contact information. `Angular 20` `TypeScript` `RxJS` `TailwindCSS v4`
+
+---
+
+## 📊 GitHub Insights
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250px">
-        <h3>Experience</h3>
-        <p>Backend systems, frontend solutions, and cloud architectures.</p>
-      </td>
-      <td align="center" width="250px">
-        <h3>Delivery</h3>
-        <p>Clean code, scalable design and maintainable projects.</p>
-      </td>
-      <td align="center" width="250px">
-        <h3>Collaboration</h3>
-        <p>Cross-functional teams, Agile ceremonies and mentoring.</p>
-      </td>
-    </tr>
-  </table>
+
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com/?user=Pedrolustosa&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -117,9 +87,9 @@ var developer = new FullStackDeveloper
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & Tools
@@ -136,9 +106,57 @@ var developer = new FullStackDeveloper
 
 ## 🎓 Education
 
-- 🎓 Bachelor in Information Systems
-- 🤖 Postgraduate in Artificial Intelligence
-- 📊 Postgraduate in Data Science & Analytics
-- 🔧 Technical Degree in Computer Maintenance
+- 🎓 Bachelor in Information Systems  
+- 🤖 Postgraduate in Artificial Intelligence  
+- 📊 Postgraduate in Data Science & Analytics  
+- 🔧 Technical Degree in Computer Maintenance  
 
 > 💭 *"The more I learn, the more I realize how much I don't know."* — Albert Einstein
+
+---
+
+## 🏆 Certifications
+
+<details>
+  <summary><b>📘 Microsoft Certifications</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td align="center" width="120"><img src="images/microsoft-certified-azure-fundamentals-2022.png" width="90px" alt="Azure Fundamentals"><br><sub>Azure Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/azure-data-fundamentals.png" width="90px" alt="Azure Data Fundamentals"><br><sub>Azure Data Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="90px" alt="Security, Compliance and Identity Fundamentals"><br><sub>Security, Compliance & Identity Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-software-development-fundamentals-certified-2022.png" width="90px" alt="Software Development Fundamentals"><br><sub>Software Development Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-database-fundamentals-certified-2022.png" width="90px" alt="Database Fundamentals"><br><sub>Database Fundamentals</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><img src="images/mta-html5-application-development-fundamentals-certified-2022.png" width="90px" alt="HTML5 App Dev Fundamentals"><br><sub>HTML5 App Dev Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-introduction-to-programming-using-javascript-certified-2022.png" width="90px" alt="Programming with JavaScript"><br><sub>Programming with JavaScript</sub></td>
+      <td align="center" width="120"><img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png" width="90px" alt="HTML & CSS Fundamentals"><br><sub>HTML & CSS Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-mobility-and-device-fundamentals-certified-2022.png" width="90px" alt="Mobility and Device Fundamentals"><br><sub>Mobility and Device Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/mta-security-fundamentals-certified-2022.png" width="90px" alt="Security Fundamentals"><br><sub>Security Fundamentals</sub></td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>📗 CertiProf Certifications</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td align="center" width="120"><img src="images/scrum-foundation-professional-certification-sfpc.png" width="90px" alt="Scrum Foundation Certificate"><br><sub>Scrum Foundation (SFPC)</sub></td>
+      <td align="center" width="120"><img src="images/kanban-essentials-professional-certificate-kepc.png" width="90px" alt="Kanban Essentials Certificate"><br><sub>Kanban Essentials (KEPC)</sub></td>
+      <td align="center" width="120"><img src="images/design-sprint-professional-certification-dspc.png" width="90px" alt="Design Sprint Professional Certification"><br><sub>Design Sprint (DSPC)</sub></td>
+      <td align="center" width="120"><img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png" width="90px" alt="LGPD Certificate"><br><sub>LGPD Fundamentals</sub></td>
+      <td align="center" width="120"><img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png" width="90px" alt="Remote Work Certificate"><br><sub>Remote Work & Virtual Collaboration</sub></td>
+      <td align="center" width="120"><img src="images/lifelong-learning.png" width="90px" alt="Lifelong Learning Certificate"><br><sub>Lifelong Learning</sub></td>
+    </tr>
+  </table>
+</details>
+
+---
+
+<div align="center">
+
+⭐ *Thanks for visiting my profile — let's build something great together!*
+
+</div>
